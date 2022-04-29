@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\FileStream\FileStream\bin\Debug\net6.0\FileStream.exe
+C:\temp\ws-vs2022\FileStream\FileStream\bin\Debug\net6.0\FileStream.deps.json
+C:\temp\ws-vs2022\FileStream\FileStream\bin\Debug\net6.0\FileStream.runtimeconfig.json
+C:\temp\ws-vs2022\FileStream\FileStream\bin\Debug\net6.0\FileStream.dll
+C:\temp\ws-vs2022\FileStream\FileStream\bin\Debug\net6.0\FileStream.pdb
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\FileStream.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\FileStream.AssemblyInfo.cs
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\FileStream.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\FileStream.dll
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\refint\FileStream.dll
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\FileStream.pdb
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\FileStream.genruntimeconfig.cache
+C:\temp\ws-vs2022\FileStream\FileStream\obj\Debug\net6.0\ref\FileStream.dll

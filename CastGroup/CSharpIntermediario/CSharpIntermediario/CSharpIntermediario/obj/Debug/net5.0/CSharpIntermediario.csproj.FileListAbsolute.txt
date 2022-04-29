@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\bin\Debug\net5.0\CSharpIntermediario.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\bin\Debug\net5.0\CSharpIntermediario.deps.json
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\bin\Debug\net5.0\CSharpIntermediario.runtimeconfig.json
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\bin\Debug\net5.0\CSharpIntermediario.runtimeconfig.dev.json
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\bin\Debug\net5.0\CSharpIntermediario.dll
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\bin\Debug\net5.0\CSharpIntermediario.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\CSharpIntermediario.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\CSharpIntermediario.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\CSharpIntermediario.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\CSharpIntermediario.AssemblyInfo.cs
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\CSharpIntermediario.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\CSharpIntermediario.dll
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\refint\CSharpIntermediario.dll
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\CSharpIntermediario.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\CSharpIntermediario.genruntimeconfig.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\CSharpIntermediario\obj\Debug\net5.0\ref\CSharpIntermediario.dll

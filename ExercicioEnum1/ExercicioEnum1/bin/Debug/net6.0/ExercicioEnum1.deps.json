@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioEnum1/1.0.0": {
+        "runtime": {
+          "ExercicioEnum1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioEnum1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

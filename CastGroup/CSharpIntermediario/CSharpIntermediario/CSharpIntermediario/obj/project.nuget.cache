@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "23lygvqyrXxpifEMnrPH5oo0w6nGY2iikqTaUkr3Li7T0bvMxtga304T9C8OEy5A1ftLMKkyfoe+sd6M8druGQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\CastGroup\\CSharpIntermediario\\CSharpIntermediario\\CSharpIntermediario\\CSharpIntermediario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uzumaki\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'MaterialSkin.2 2.3.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "MaterialSkin.2",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

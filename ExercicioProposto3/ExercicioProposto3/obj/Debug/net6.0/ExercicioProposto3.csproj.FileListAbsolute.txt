@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\bin\Debug\net6.0\ExercicioProposto3.exe
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\bin\Debug\net6.0\ExercicioProposto3.deps.json
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\bin\Debug\net6.0\ExercicioProposto3.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\bin\Debug\net6.0\ExercicioProposto3.dll
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\bin\Debug\net6.0\ExercicioProposto3.pdb
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\ExercicioProposto3.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\ExercicioProposto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\ExercicioProposto3.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\ExercicioProposto3.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\ExercicioProposto3.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\ExercicioProposto3.dll
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\refint\ExercicioProposto3.dll
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\ExercicioProposto3.pdb
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\ExercicioProposto3.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExercicioProposto3\ExercicioProposto3\obj\Debug\net6.0\ref\ExercicioProposto3.dll

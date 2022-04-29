@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.exe
+C:\temp\ws-vs2022\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.deps.json
+C:\temp\ws-vs2022\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.runtimeconfig.json
+C:\temp\ws-vs2022\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.dll
+C:\temp\ws-vs2022\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.pdb
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfo.cs
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.dll
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\refint\TryCatch.dll
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.pdb
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.genruntimeconfig.cache
+C:\temp\ws-vs2022\TryCatch\TryCatch\obj\Debug\net6.0\ref\TryCatch.dll

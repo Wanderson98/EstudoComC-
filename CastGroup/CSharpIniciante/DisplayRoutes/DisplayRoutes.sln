@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayRoutes", "DisplayRoutes\DisplayRoutes.csproj", "{1351A94A-0999-4384-83E1-EA252888F41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayRoutes2", "DisplayRoutes2\DisplayRoutes2.csproj", "{54C29CBF-2F75-446F-817D-72199239EB70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayRoutes3", "DisplayRoutes3\DisplayRoutes3.csproj", "{BCC2929B-FADB-4599-B024-0B4AA226742B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayRoutes4", "DisplayRoutes4\DisplayRoutes4.csproj", "{AA84FA75-9DC9-4EF8-A87E-EB813455A566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayRoutes5", "DisplayRoutes5\DisplayRoutes5.csproj", "{A5B4D525-60C0-4253-B221-16CC29873D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayRoutesExercicios", "DisplayRoutesExercicios\DisplayRoutesExercicios.csproj", "{E6B4A5A7-4937-4F5F-814E-BE165771812E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1351A94A-0999-4384-83E1-EA252888F41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1351A94A-0999-4384-83E1-EA252888F41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1351A94A-0999-4384-83E1-EA252888F41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1351A94A-0999-4384-83E1-EA252888F41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C29CBF-2F75-446F-817D-72199239EB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C29CBF-2F75-446F-817D-72199239EB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C29CBF-2F75-446F-817D-72199239EB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C29CBF-2F75-446F-817D-72199239EB70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC2929B-FADB-4599-B024-0B4AA226742B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC2929B-FADB-4599-B024-0B4AA226742B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC2929B-FADB-4599-B024-0B4AA226742B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC2929B-FADB-4599-B024-0B4AA226742B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA84FA75-9DC9-4EF8-A87E-EB813455A566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA84FA75-9DC9-4EF8-A87E-EB813455A566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA84FA75-9DC9-4EF8-A87E-EB813455A566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA84FA75-9DC9-4EF8-A87E-EB813455A566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B4D525-60C0-4253-B221-16CC29873D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B4D525-60C0-4253-B221-16CC29873D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B4D525-60C0-4253-B221-16CC29873D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B4D525-60C0-4253-B221-16CC29873D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B4A5A7-4937-4F5F-814E-BE165771812E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B4A5A7-4937-4F5F-814E-BE165771812E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B4A5A7-4937-4F5F-814E-BE165771812E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B4A5A7-4937-4F5F-814E-BE165771812E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B947840E-9D25-472B-88D5-1B579D5D73A9}
+	EndGlobalSection
+EndGlobal

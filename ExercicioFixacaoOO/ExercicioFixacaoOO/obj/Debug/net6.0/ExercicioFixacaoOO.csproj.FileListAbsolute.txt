@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\ExercicioFixacaoOO.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\ExercicioFixacaoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\ExercicioFixacaoOO.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\ExercicioFixacaoOO.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\ExercicioFixacaoOO.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\bin\Debug\net6.0\ExercicioFixacaoOO.exe
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\bin\Debug\net6.0\ExercicioFixacaoOO.deps.json
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\bin\Debug\net6.0\ExercicioFixacaoOO.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\bin\Debug\net6.0\ExercicioFixacaoOO.dll
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\bin\Debug\net6.0\ExercicioFixacaoOO.pdb
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\ExercicioFixacaoOO.dll
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\refint\ExercicioFixacaoOO.dll
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\ExercicioFixacaoOO.pdb
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\ExercicioFixacaoOO.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExercicioFixacaoOO\ExercicioFixacaoOO\obj\Debug\net6.0\ref\ExercicioFixacaoOO.dll

@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\bin\Debug\net5.0\RevisaoCBasico.exe
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\bin\Debug\net5.0\RevisaoCBasico.deps.json
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\bin\Debug\net5.0\RevisaoCBasico.runtimeconfig.json
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\bin\Debug\net5.0\RevisaoCBasico.runtimeconfig.dev.json
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\bin\Debug\net5.0\RevisaoCBasico.dll
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\bin\Debug\net5.0\RevisaoCBasico.pdb
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\RevisaoCBasico.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\RevisaoCBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\RevisaoCBasico.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\RevisaoCBasico.AssemblyInfo.cs
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\RevisaoCBasico.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\RevisaoCBasico.dll
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\refint\RevisaoCBasico.dll
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\RevisaoCBasico.pdb
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\RevisaoCBasico.genruntimeconfig.cache
+C:\temp\ws-vs2022\RevisaoCBasico\RevisaoCBasico\obj\Debug\net5.0\ref\RevisaoCBasico.dll

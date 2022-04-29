@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\bin\Debug\net6.0\ExercicioFixacaoPoli.exe
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\bin\Debug\net6.0\ExercicioFixacaoPoli.deps.json
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\bin\Debug\net6.0\ExercicioFixacaoPoli.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\bin\Debug\net6.0\ExercicioFixacaoPoli.dll
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\bin\Debug\net6.0\ExercicioFixacaoPoli.pdb
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\ExercicioFixacaoPoli.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\ExercicioFixacaoPoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\ExercicioFixacaoPoli.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\ExercicioFixacaoPoli.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\ExercicioFixacaoPoli.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\ExercicioFixacaoPoli.dll
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\refint\ExercicioFixacaoPoli.dll
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\ExercicioFixacaoPoli.pdb
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\ExercicioFixacaoPoli.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExercicioFixacaoPoli\ExercicioFixacaoPoli\obj\Debug\net6.0\ref\ExercicioFixacaoPoli.dll

@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\bin\Debug\net5.0\ExerciciosFeriados.exe
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\bin\Debug\net5.0\ExerciciosFeriados.deps.json
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\bin\Debug\net5.0\ExerciciosFeriados.runtimeconfig.json
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\bin\Debug\net5.0\ExerciciosFeriados.runtimeconfig.dev.json
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\bin\Debug\net5.0\ExerciciosFeriados.dll
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\bin\Debug\net5.0\ExerciciosFeriados.pdb
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\ExerciciosFeriados.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\ExerciciosFeriados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\ExerciciosFeriados.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\ExerciciosFeriados.AssemblyInfo.cs
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\ExerciciosFeriados.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\ExerciciosFeriados.dll
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\refint\ExerciciosFeriados.dll
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\ExerciciosFeriados.pdb
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\ExerciciosFeriados.genruntimeconfig.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\ExerciciosFeriados\obj\Debug\net5.0\ref\ExerciciosFeriados.dll

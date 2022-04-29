@@ -1,0 +1,13 @@
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\bin\Debug\Aula40Material.exe.config
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\bin\Debug\Aula40Material.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\bin\Debug\Aula40Material.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\bin\Debug\MaterialSkin.dll
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\obj\Debug\Aula40Material.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\obj\Debug\Aula40Material.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\obj\Debug\Aula40Material.Form1.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\obj\Debug\Aula40Material.Properties.Resources.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\obj\Debug\Aula40Material.csproj.GenerateResource.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\obj\Debug\Aula40Material.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\obj\Debug\Aula40Material.csproj.CopyComplete
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\obj\Debug\Aula40Material.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula40Material\obj\Debug\Aula40Material.pdb

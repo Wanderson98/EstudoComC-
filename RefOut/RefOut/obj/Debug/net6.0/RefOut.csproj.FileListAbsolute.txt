@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\RefOut\RefOut\bin\Debug\net6.0\RefOut.exe
+C:\temp\ws-vs2022\RefOut\RefOut\bin\Debug\net6.0\RefOut.deps.json
+C:\temp\ws-vs2022\RefOut\RefOut\bin\Debug\net6.0\RefOut.runtimeconfig.json
+C:\temp\ws-vs2022\RefOut\RefOut\bin\Debug\net6.0\RefOut.dll
+C:\temp\ws-vs2022\RefOut\RefOut\bin\Debug\net6.0\RefOut.pdb
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\RefOut.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\RefOut.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\RefOut.AssemblyInfo.cs
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\RefOut.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\RefOut.dll
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\refint\RefOut.dll
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\RefOut.pdb
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\RefOut.genruntimeconfig.cache
+C:\temp\ws-vs2022\RefOut\RefOut\obj\Debug\net6.0\ref\RefOut.dll

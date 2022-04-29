@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\Interface\Interface\bin\Debug\net5.0\Interface.exe
+C:\temp\ws-vs2022\Interface\Interface\bin\Debug\net5.0\Interface.deps.json
+C:\temp\ws-vs2022\Interface\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+C:\temp\ws-vs2022\Interface\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Interface\Interface\bin\Debug\net5.0\Interface.dll
+C:\temp\ws-vs2022\Interface\Interface\bin\Debug\net5.0\Interface.pdb
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\Interface.dll
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\refint\Interface.dll
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\Interface.pdb
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
+C:\temp\ws-vs2022\Interface\Interface\obj\Debug\net5.0\ref\Interface.dll

@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\bin\Debug\net6.0\EstruturaRepticao.exe
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\bin\Debug\net6.0\EstruturaRepticao.deps.json
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\bin\Debug\net6.0\EstruturaRepticao.runtimeconfig.json
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\bin\Debug\net6.0\EstruturaRepticao.dll
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\bin\Debug\net6.0\EstruturaRepticao.pdb
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\EstruturaRepticao.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\EstruturaRepticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\EstruturaRepticao.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\EstruturaRepticao.AssemblyInfo.cs
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\EstruturaRepticao.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\EstruturaRepticao.dll
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\refint\EstruturaRepticao.dll
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\EstruturaRepticao.pdb
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\EstruturaRepticao.genruntimeconfig.cache
+C:\temp\ws-vs2022\EstruturaRepticao\EstruturaRepticao\obj\Debug\net6.0\ref\EstruturaRepticao.dll

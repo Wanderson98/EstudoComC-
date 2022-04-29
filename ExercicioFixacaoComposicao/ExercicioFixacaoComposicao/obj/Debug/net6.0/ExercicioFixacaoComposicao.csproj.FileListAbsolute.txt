@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\bin\Debug\net6.0\ExercicioFixacaoComposicao.exe
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\bin\Debug\net6.0\ExercicioFixacaoComposicao.deps.json
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\bin\Debug\net6.0\ExercicioFixacaoComposicao.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\bin\Debug\net6.0\ExercicioFixacaoComposicao.dll
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\bin\Debug\net6.0\ExercicioFixacaoComposicao.pdb
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\ExercicioFixacaoComposicao.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\ExercicioFixacaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\ExercicioFixacaoComposicao.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\ExercicioFixacaoComposicao.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\ExercicioFixacaoComposicao.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\ExercicioFixacaoComposicao.dll
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\refint\ExercicioFixacaoComposicao.dll
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\ExercicioFixacaoComposicao.pdb
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\ExercicioFixacaoComposicao.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExercicioFixacaoComposicao\ExercicioFixacaoComposicao\obj\Debug\net6.0\ref\ExercicioFixacaoComposicao.dll

@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\bin\Debug\net5.0\Exe30.exe
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\bin\Debug\net5.0\Exe30.deps.json
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\bin\Debug\net5.0\Exe30.runtimeconfig.json
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\bin\Debug\net5.0\Exe30.runtimeconfig.dev.json
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\bin\Debug\net5.0\Exe30.dll
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\bin\Debug\net5.0\Exe30.pdb
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\Exe30.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\Exe30.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\Exe30.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\Exe30.AssemblyInfo.cs
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\Exe30.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\Exe30.dll
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\refint\Exe30.dll
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\Exe30.pdb
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\Exe30.genruntimeconfig.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe30\obj\Debug\net5.0\ref\Exe30.dll

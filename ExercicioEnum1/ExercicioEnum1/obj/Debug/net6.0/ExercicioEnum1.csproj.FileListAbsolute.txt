@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\bin\Debug\net6.0\ExercicioEnum1.exe
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\bin\Debug\net6.0\ExercicioEnum1.deps.json
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\bin\Debug\net6.0\ExercicioEnum1.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\bin\Debug\net6.0\ExercicioEnum1.dll
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\bin\Debug\net6.0\ExercicioEnum1.pdb
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\ExercicioEnum1.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\ExercicioEnum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\ExercicioEnum1.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\ExercicioEnum1.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\ExercicioEnum1.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\ExercicioEnum1.dll
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\refint\ExercicioEnum1.dll
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\ExercicioEnum1.pdb
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\ExercicioEnum1.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExercicioEnum1\ExercicioEnum1\obj\Debug\net6.0\ref\ExercicioEnum1.dll

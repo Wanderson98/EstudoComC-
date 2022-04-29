@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Nome\Nome\bin\Debug\net6.0\Nome.exe
+C:\temp\ws-vs2022\Nome\Nome\bin\Debug\net6.0\Nome.deps.json
+C:\temp\ws-vs2022\Nome\Nome\bin\Debug\net6.0\Nome.runtimeconfig.json
+C:\temp\ws-vs2022\Nome\Nome\bin\Debug\net6.0\Nome.dll
+C:\temp\ws-vs2022\Nome\Nome\bin\Debug\net6.0\Nome.pdb
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\Nome.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\Nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\Nome.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\Nome.AssemblyInfo.cs
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\Nome.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\Nome.dll
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\refint\Nome.dll
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\Nome.pdb
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\Nome.genruntimeconfig.cache
+C:\temp\ws-vs2022\Nome\Nome\obj\Debug\net6.0\ref\Nome.dll

@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\bin\Debug\net5.0\Aula11.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\bin\Debug\net5.0\Aula11.deps.json
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\bin\Debug\net5.0\Aula11.runtimeconfig.json
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\bin\Debug\net5.0\Aula11.runtimeconfig.dev.json
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\bin\Debug\net5.0\Aula11.dll
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\bin\Debug\net5.0\Aula11.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\Aula11.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\Aula11.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\Aula11.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\Aula11.AssemblyInfo.cs
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\Aula11.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\Aula11.dll
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\refint\Aula11.dll
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\Aula11.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\Aula11.genruntimeconfig.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula11\obj\Debug\net5.0\ref\Aula11.dll

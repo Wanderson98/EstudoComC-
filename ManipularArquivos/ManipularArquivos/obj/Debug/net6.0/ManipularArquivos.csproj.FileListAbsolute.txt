@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\bin\Debug\net6.0\ManipularArquivos.exe
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\bin\Debug\net6.0\ManipularArquivos.deps.json
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\bin\Debug\net6.0\ManipularArquivos.runtimeconfig.json
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\bin\Debug\net6.0\ManipularArquivos.dll
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\bin\Debug\net6.0\ManipularArquivos.pdb
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\ManipularArquivos.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\ManipularArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\ManipularArquivos.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\ManipularArquivos.AssemblyInfo.cs
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\ManipularArquivos.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\ManipularArquivos.dll
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\refint\ManipularArquivos.dll
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\ManipularArquivos.pdb
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\ManipularArquivos.genruntimeconfig.cache
+C:\temp\ws-vs2022\ManipularArquivos\ManipularArquivos\obj\Debug\net6.0\ref\ManipularArquivos.dll

@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\bin\Debug\net6.0\ExerciciosOO1.exe
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\bin\Debug\net6.0\ExerciciosOO1.deps.json
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\bin\Debug\net6.0\ExerciciosOO1.runtimeconfig.json
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\bin\Debug\net6.0\ExerciciosOO1.dll
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\bin\Debug\net6.0\ExerciciosOO1.pdb
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\ExerciciosOO1.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\ExerciciosOO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\ExerciciosOO1.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\ExerciciosOO1.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\ExerciciosOO1.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\ExerciciosOO1.dll
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\refint\ExerciciosOO1.dll
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\ExerciciosOO1.pdb
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\ExerciciosOO1.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExerciciosOO1\ExerciciosOO1\obj\Debug\net6.0\ref\ExerciciosOO1.dll

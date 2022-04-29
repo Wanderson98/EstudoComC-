@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\Interface\ExercicioFix\bin\Debug\net5.0\ExercicioFix.exe
+C:\temp\ws-vs2022\Interface\ExercicioFix\bin\Debug\net5.0\ExercicioFix.deps.json
+C:\temp\ws-vs2022\Interface\ExercicioFix\bin\Debug\net5.0\ExercicioFix.runtimeconfig.json
+C:\temp\ws-vs2022\Interface\ExercicioFix\bin\Debug\net5.0\ExercicioFix.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Interface\ExercicioFix\bin\Debug\net5.0\ExercicioFix.dll
+C:\temp\ws-vs2022\Interface\ExercicioFix\bin\Debug\net5.0\ExercicioFix.pdb
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\ExercicioFix.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\ExercicioFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\ExercicioFix.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\ExercicioFix.AssemblyInfo.cs
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\ExercicioFix.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\ExercicioFix.dll
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\refint\ExercicioFix.dll
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\ExercicioFix.pdb
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\ExercicioFix.genruntimeconfig.cache
+C:\temp\ws-vs2022\Interface\ExercicioFix\obj\Debug\net5.0\ref\ExercicioFix.dll

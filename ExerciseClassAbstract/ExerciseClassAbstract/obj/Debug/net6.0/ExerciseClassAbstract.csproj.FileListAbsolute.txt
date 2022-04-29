@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\bin\Debug\net6.0\ExerciseClassAbstract.exe
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\bin\Debug\net6.0\ExerciseClassAbstract.deps.json
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\bin\Debug\net6.0\ExerciseClassAbstract.runtimeconfig.json
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\bin\Debug\net6.0\ExerciseClassAbstract.dll
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\bin\Debug\net6.0\ExerciseClassAbstract.pdb
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\ExerciseClassAbstract.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\ExerciseClassAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\ExerciseClassAbstract.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\ExerciseClassAbstract.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\ExerciseClassAbstract.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\ExerciseClassAbstract.dll
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\refint\ExerciseClassAbstract.dll
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\ExerciseClassAbstract.pdb
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\ExerciseClassAbstract.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExerciseClassAbstract\ExerciseClassAbstract\obj\Debug\net6.0\ref\ExerciseClassAbstract.dll

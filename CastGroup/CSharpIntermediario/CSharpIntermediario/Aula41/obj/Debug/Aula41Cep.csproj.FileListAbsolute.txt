@@ -1,0 +1,11 @@
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\bin\Debug\Aula41.exe.config
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\bin\Debug\Aula41.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\bin\Debug\Aula41.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\obj\Debug\Aula41Cep.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\obj\Debug\Aula41Cep.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\obj\Debug\Aula41.Form1.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\obj\Debug\Aula41.Properties.Resources.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\obj\Debug\Aula41Cep.csproj.GenerateResource.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\obj\Debug\Aula41Cep.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\obj\Debug\Aula41.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula41\obj\Debug\Aula41.pdb

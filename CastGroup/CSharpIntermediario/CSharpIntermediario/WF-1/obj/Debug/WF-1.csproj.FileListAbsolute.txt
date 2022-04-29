@@ -1,0 +1,12 @@
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\bin\Debug\WF-1.exe.config
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\bin\Debug\WF-1.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\bin\Debug\WF-1.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\obj\Debug\WF-1.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\obj\Debug\WF-1.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\obj\Debug\WF_1.Properties.Resources.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\obj\Debug\WF-1.csproj.GenerateResource.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\obj\Debug\WF-1.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\obj\Debug\WF-1.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\obj\Debug\WF-1.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\obj\Debug\WF_1.Form1.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\WF-1\obj\Debug\WF_1.TelaCliente.resources

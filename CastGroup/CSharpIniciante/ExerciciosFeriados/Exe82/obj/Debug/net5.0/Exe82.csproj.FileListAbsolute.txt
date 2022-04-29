@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\bin\Debug\net5.0\Exe82.exe
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\bin\Debug\net5.0\Exe82.deps.json
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\bin\Debug\net5.0\Exe82.runtimeconfig.json
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\bin\Debug\net5.0\Exe82.runtimeconfig.dev.json
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\bin\Debug\net5.0\Exe82.dll
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\bin\Debug\net5.0\Exe82.pdb
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\Exe82.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\Exe82.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\Exe82.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\Exe82.AssemblyInfo.cs
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\Exe82.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\Exe82.dll
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\refint\Exe82.dll
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\Exe82.pdb
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\Exe82.genruntimeconfig.cache
+C:\temp\ws-vs2022\CastGroup\ExerciciosFeriados\Exe82\obj\Debug\net5.0\ref\Exe82.dll

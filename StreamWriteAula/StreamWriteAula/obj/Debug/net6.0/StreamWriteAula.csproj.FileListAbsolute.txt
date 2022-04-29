@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\bin\Debug\net6.0\StreamWriteAula.exe
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\bin\Debug\net6.0\StreamWriteAula.deps.json
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\bin\Debug\net6.0\StreamWriteAula.runtimeconfig.json
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\bin\Debug\net6.0\StreamWriteAula.dll
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\bin\Debug\net6.0\StreamWriteAula.pdb
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\StreamWriteAula.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\StreamWriteAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\StreamWriteAula.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\StreamWriteAula.AssemblyInfo.cs
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\StreamWriteAula.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\StreamWriteAula.dll
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\refint\StreamWriteAula.dll
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\StreamWriteAula.pdb
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\StreamWriteAula.genruntimeconfig.cache
+C:\temp\ws-vs2022\StreamWriteAula\StreamWriteAula\obj\Debug\net6.0\ref\StreamWriteAula.dll

@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\bin\Debug\net6.0\ExerciseTryCatchFix.exe
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\bin\Debug\net6.0\ExerciseTryCatchFix.deps.json
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\bin\Debug\net6.0\ExerciseTryCatchFix.runtimeconfig.json
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\bin\Debug\net6.0\ExerciseTryCatchFix.dll
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\bin\Debug\net6.0\ExerciseTryCatchFix.pdb
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\ExerciseTryCatchFix.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\ExerciseTryCatchFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\ExerciseTryCatchFix.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\ExerciseTryCatchFix.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\ExerciseTryCatchFix.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\ExerciseTryCatchFix.dll
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\refint\ExerciseTryCatchFix.dll
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\ExerciseTryCatchFix.pdb
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\ExerciseTryCatchFix.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExerciseTryCatchFix\ExerciseTryCatchFix\obj\Debug\net6.0\ref\ExerciseTryCatchFix.dll

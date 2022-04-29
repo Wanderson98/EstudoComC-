@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\bin\Debug\net6.0\ExercicioPoli1.exe
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\bin\Debug\net6.0\ExercicioPoli1.deps.json
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\bin\Debug\net6.0\ExercicioPoli1.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\bin\Debug\net6.0\ExercicioPoli1.dll
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\bin\Debug\net6.0\ExercicioPoli1.pdb
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\ExercicioPoli1.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\ExercicioPoli1.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\ExercicioPoli1.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\ExercicioPoli1.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\ExercicioPoli1.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\ExercicioPoli1.dll
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\refint\ExercicioPoli1.dll
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\ExercicioPoli1.pdb
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\ExercicioPoli1.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExercicioPoli1\ExercicioPoli1\obj\Debug\net6.0\ref\ExercicioPoli1.dll

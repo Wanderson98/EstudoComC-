@@ -1,0 +1,13 @@
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\bin\Debug\WF-2.exe.config
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\bin\Debug\WF-2.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\bin\Debug\WF-2.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\bin\Debug\MaterialSkin.dll
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\obj\Debug\WF-2.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\obj\Debug\WF-2.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\obj\Debug\WF_2.Form1.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\obj\Debug\WF_2.Properties.Resources.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\obj\Debug\WF-2.csproj.GenerateResource.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\obj\Debug\WF-2.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\obj\Debug\WF-2.csproj.CopyComplete
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\obj\Debug\WF-2.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\WF-2\WF-2\obj\Debug\WF-2.pdb

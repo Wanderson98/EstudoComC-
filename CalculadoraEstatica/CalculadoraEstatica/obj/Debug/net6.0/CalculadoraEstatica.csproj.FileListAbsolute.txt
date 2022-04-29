@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\bin\Debug\net6.0\CalculadoraEstatica.exe
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\bin\Debug\net6.0\CalculadoraEstatica.deps.json
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\bin\Debug\net6.0\CalculadoraEstatica.runtimeconfig.json
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\bin\Debug\net6.0\CalculadoraEstatica.dll
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\bin\Debug\net6.0\CalculadoraEstatica.pdb
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\CalculadoraEstatica.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\CalculadoraEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\CalculadoraEstatica.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\CalculadoraEstatica.AssemblyInfo.cs
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\CalculadoraEstatica.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\CalculadoraEstatica.dll
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\refint\CalculadoraEstatica.dll
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\CalculadoraEstatica.pdb
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\CalculadoraEstatica.genruntimeconfig.cache
+C:\temp\ws-vs2022\CalculadoraEstatica\CalculadoraEstatica\obj\Debug\net6.0\ref\CalculadoraEstatica.dll

@@ -1,0 +1,14 @@
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\bin\Debug\Aula22.exe.config
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\bin\Debug\Aula22.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\bin\Debug\Aula22.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22-Menus.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22-Menus.csproj.SuggestedBindingRedirects.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22.Form1.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22.Properties.Resources.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22-Menus.csproj.GenerateResource.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22-Menus.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22.exe
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22.pdb
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22.Telas.Clientes.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22.Telas.Contas.resources
+C:\temp\ws-vs2022\CastGroup\CSharpIntermediario\CSharpIntermediario\Aula22\obj\Debug\Aula22.Telas.Fornecedores.resources

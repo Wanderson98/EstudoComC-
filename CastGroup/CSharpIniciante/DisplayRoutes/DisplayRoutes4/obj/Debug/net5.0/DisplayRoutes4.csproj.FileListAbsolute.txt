@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\bin\Debug\net5.0\DisplayRoutes4.exe
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\bin\Debug\net5.0\DisplayRoutes4.deps.json
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\bin\Debug\net5.0\DisplayRoutes4.runtimeconfig.json
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\bin\Debug\net5.0\DisplayRoutes4.runtimeconfig.dev.json
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\bin\Debug\net5.0\DisplayRoutes4.dll
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\bin\Debug\net5.0\DisplayRoutes4.pdb
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\DisplayRoutes4.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\DisplayRoutes4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\DisplayRoutes4.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\DisplayRoutes4.AssemblyInfo.cs
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\DisplayRoutes4.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\DisplayRoutes4.dll
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\refint\DisplayRoutes4.dll
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\DisplayRoutes4.pdb
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\DisplayRoutes4.genruntimeconfig.cache
+C:\temp\ws-vs2022\CastGroup\DisplayRoutes\DisplayRoutes4\obj\Debug\net5.0\ref\DisplayRoutes4.dll

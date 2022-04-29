@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\bin\Debug\net6.0\ExercicioMatrix.exe
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\bin\Debug\net6.0\ExercicioMatrix.deps.json
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\bin\Debug\net6.0\ExercicioMatrix.runtimeconfig.json
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\bin\Debug\net6.0\ExercicioMatrix.dll
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\bin\Debug\net6.0\ExercicioMatrix.pdb
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\ExercicioMatrix.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\ExercicioMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\ExercicioMatrix.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\ExercicioMatrix.AssemblyInfo.cs
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\ExercicioMatrix.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\ExercicioMatrix.dll
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\refint\ExercicioMatrix.dll
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\ExercicioMatrix.pdb
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\ExercicioMatrix.genruntimeconfig.cache
+C:\temp\ws-vs2022\ExercicioMatrix\ExercicioMatrix\obj\Debug\net6.0\ref\ExercicioMatrix.dll

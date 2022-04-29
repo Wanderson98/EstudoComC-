@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net6.0\TiposBasicosDeDados.exe
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net6.0\TiposBasicosDeDados.deps.json
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net6.0\TiposBasicosDeDados.runtimeconfig.json
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net6.0\TiposBasicosDeDados.dll
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net6.0\TiposBasicosDeDados.pdb
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\TiposBasicosDeDados.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\TiposBasicosDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\TiposBasicosDeDados.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\TiposBasicosDeDados.AssemblyInfo.cs
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\TiposBasicosDeDados.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\TiposBasicosDeDados.dll
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\refint\TiposBasicosDeDados.dll
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\TiposBasicosDeDados.pdb
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\TiposBasicosDeDados.genruntimeconfig.cache
+C:\temp\ws-vs2022\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net6.0\ref\TiposBasicosDeDados.dll
